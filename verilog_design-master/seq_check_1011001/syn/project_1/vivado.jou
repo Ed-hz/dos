@@ -1,0 +1,36 @@
+#-----------------------------------------------------------
+# Vivado v2021.2 (64-bit)
+# SW Build 3367213 on Tue Oct 19 02:48:09 MDT 2021
+# IP Build 3369179 on Thu Oct 21 08:25:16 MDT 2021
+# Start of session at: Tue May 17 18:57:41 2022
+# Process ID: 19368
+# Current directory: F:/FPGA/Verilog_design/seq_check_1011001/syn/project_1
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent19676 F:\FPGA\Verilog_design\seq_check_1011001\syn\project_1\project_1.xpr
+# Log file: F:/FPGA/Verilog_design/seq_check_1011001/syn/project_1/vivado.log
+# Journal file: F:/FPGA/Verilog_design/seq_check_1011001/syn/project_1\vivado.jou
+# Running On: LAPTOP-Q8881UKI, OS: Windows, CPU Frequency: 3194 MHz, CPU Physical cores: 16, Host memory: 14894 MB
+#-----------------------------------------------------------
+start_gui
+open_project F:/FPGA/Verilog_design/seq_check_1011001/syn/project_1/project_1.xpr
+update_compile_order -fileset sources_1
+launch_simulation
+open_wave_config F:/FPGA/Verilog_design/seq_check_1011001/syn/project_1/tb_behav.wcfg
+source tb.tcl
+run 8 us
+relaunch_sim
+run 8 us
+relaunch_sim
+run 8 us
+synth_design -rtl -rtl_skip_mlo -name rtl_1
+refresh_design
+reset_run synth_1
+launch_runs synth_1 -jobs 8
+wait_on_run synth_1
+close_design
+open_run synth_1 -name synth_1
+launch_simulation -mode post-synthesis -type functional
+open_wave_config F:/FPGA/Verilog_design/seq_check_1011001/syn/project_1/tb_behav.wcfg
+source tb.tcl
+run 8 us
+close_sim
+close_sim

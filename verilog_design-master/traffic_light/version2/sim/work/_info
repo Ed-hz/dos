@@ -1,0 +1,158 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dF:/FPGA/Verilog_design/traffic_light/version2/sim
+vdiv100
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+31
+!i10b 1
+!s100 ee>5e`A[D9hd1=@j2gQ]Y3
+IKSMbc=b4SYhDz<R:MUa0G3
+R0
+Z2 w1640569660
+Z3 8../src/div_clk.v
+Z4 F../src/div_clk.v
+L0 56
+Z5 OL;L;10.6c;65
+Z6 !s108 1640574512.000000
+Z7 !s107 ../src/traffic_light_tb.v|../src/traffic_light.v|../src/timer.v|../src/FSM.v|../src/div_clk.v|
+Z8 !s90 ../src/div_clk.v|../src/FSM.v|../src/timer.v|../src/traffic_light.v|../src/traffic_light_tb.v|-cover|c|-cover|b|-cover|x|-cover|f|
+!i113 0
+Z9 !s102 -cover c -cover b -cover x -cover f
+Z10 o-cover c -cover b -cover x -cover f -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z11 tCvgOpt 0
+vdiv125
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 MB2<GW^kY9aAbPik5YAHf3
+ImN^=Q0eGkbZbDKO^FKHTf3
+R0
+R2
+R3
+R4
+L0 18
+R5
+R6
+R7
+R8
+!i113 0
+R9
+R10
+R11
+vdiv_clk
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 RPNMn2f2P<fgF9W@GAHmB2
+I[9<Jo:VI3OnH6dQU@da@H3
+R0
+R2
+R3
+R4
+L0 2
+R5
+R6
+R7
+R8
+!i113 0
+R9
+R10
+R11
+vFSM
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 24@]bfjP6Dn1TQUPMIXZS2
+I;Z<[Q4c7S?j:_[CYE3akY3
+R0
+w1640573691
+8../src/FSM.v
+F../src/FSM.v
+L0 1
+R5
+R6
+R7
+R8
+!i113 0
+R9
+R10
+R11
+n@f@s@m
+vtimer
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 f>=NN88:265lKU?ED:kLR3
+IhVkYm5Mc`@<0LB<DEY;7<3
+R0
+w1640571654
+8../src/timer.v
+F../src/timer.v
+L0 1
+R5
+R6
+R7
+R8
+!i113 0
+R9
+R10
+R11
+vtraffic_light
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 IWOmFIFhloW^aGCBUgPha0
+IK6P91H3`cn`k2knhBiiK50
+R0
+w1640071578
+8../src/traffic_light.v
+F../src/traffic_light.v
+L0 2
+R5
+R6
+R7
+R8
+!i113 0
+R9
+R10
+R11
+vtraffic_light_tb
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 7HCWEfMGOZE;7I`[e;>Bd1
+ImTXIU>CMKmfMn;l@f`SP73
+R0
+w1640570936
+8../src/traffic_light_tb.v
+F../src/traffic_light_tb.v
+L0 3
+R5
+R6
+R7
+R8
+!i113 0
+R9
+R10
+R11

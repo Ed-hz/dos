@@ -1,0 +1,52 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dF:/FPGA/Verilog_design/ICG
+vICG
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+31
+!i10b 1
+!s100 m;EhQIXlYMdWai_f=XNn_3
+IQaLHSUIO7X5>LY`R7cBFe3
+R0
+w1646990196
+8ICG.v
+FICG.v
+L0 1
+Z2 OL;L;10.6c;65
+Z3 !s108 1646994333.000000
+Z4 !s107 ICG_tb.v|ICG.v|
+Z5 !s90 ICG.v|ICG_tb.v|
+!i113 0
+Z6 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z7 tCvgOpt 0
+n@i@c@g
+vICG_tb
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 ^_e2j>`PfdQOnNB3`YNSX0
+IWlV[;9F@;`;h7ajZQX7o:3
+R0
+w1646994286
+8ICG_tb.v
+FICG_tb.v
+L0 2
+R2
+R3
+R4
+R5
+!i113 0
+R6
+R7
+n@i@c@g_tb

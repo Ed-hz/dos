@@ -1,0 +1,73 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dF:/FPGA/Verilog_design/gen_if
+vcal_multiplier
+Z1 !s110 1647607993
+!i10b 1
+!s100 6nK]^1L8>d5Wb1Wj]oFa23
+IhXi<3L98@?5eHK09mPSCd3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z3 w1647607990
+Z4 8.\multiplier.v
+Z5 F.\multiplier.v
+L0 25
+Z6 OL;L;10.6c;65
+r1
+!s85 0
+31
+Z7 !s108 1647607993.000000
+!s107 .\multiplier.v|
+Z8 !s90 .\multiplier.v|
+!i113 0
+Z9 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z10 tCvgOpt 0
+vmultiplier
+R1
+!i10b 1
+!s100 4A9hEFAWOnGci^QE;;fi[0
+Igng?QeDZlI32PHFkZ[5^o3
+R2
+R0
+R3
+R4
+R5
+L0 1
+R6
+r1
+!s85 0
+31
+R7
+Z11 !s107 .\multiplier.v|
+R8
+!i113 0
+R9
+R10
+vtree_multiplier
+R1
+!i10b 1
+!s100 [4M1=BE:EFmaWP;<ZOQG<1
+I80;`?>fHD6=iCk^kX2@9P1
+R2
+R0
+R3
+R4
+R5
+L0 41
+R6
+r1
+!s85 0
+31
+R7
+R11
+R8
+!i113 0
+R9
+R10

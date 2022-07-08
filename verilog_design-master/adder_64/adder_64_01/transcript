@@ -1,0 +1,28 @@
+# //  Questa Sim-64
+# //  Version 10.6c win64 Jul 26 2017
+# //
+# //  Copyright 1991-2017 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  QuestaSim and its associated documentation contain trade
+# //  secrets and commercial or financial information that are the property of
+# //  Mentor Graphics Corporation and are privileged, confidential,
+# //  and exempt from disclosure under the Freedom of Information Act,
+# //  5 U.S.C. Section 552. Furthermore, this information
+# //  is prohibited from disclosure under the Trade Secrets Act,
+# //  18 U.S.C. Section 1905.
+# //
+# vsim adder_64_tb -novopt 
+# Start time: 22:56:30 on Mar 11,2022
+# ** Warning: (vsim-8891) All optimizations are turned off because the -novopt switch is in effect. This will cause your simulation to run very slowly. If you are using this switch to preserve visibility for Debug or PLI features please see the User's Manual section on Preserving Object Visibility with vopt.
+# Refreshing F:/FPGA/Verilog_design/adder_64/adder_64_01/work.adder_64_tb
+# Loading work.adder_64_tb
+# Refreshing F:/FPGA/Verilog_design/adder_64/adder_64_01/work.adder_64
+# Loading work.adder_64
+# Refreshing F:/FPGA/Verilog_design/adder_64/adder_64_01/work.adder_16
+# Loading work.adder_16
+do wave.do
+run
+write format wave -window .main_pane.wave.interior.cs.body.pw.wf F:/FPGA/Verilog_design/adder_64/adder_64_01/wave.do
+# End time: 22:57:07 on Mar 11,2022, Elapsed time: 0:00:37
+# Errors: 0, Warnings: 1

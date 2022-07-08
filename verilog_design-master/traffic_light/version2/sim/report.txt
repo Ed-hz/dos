@@ -1,0 +1,53 @@
+Coverage Report Summary Data by file
+
+=================================================================================
+=== File: ../src/FSM.v
+=================================================================================
+    Enabled Coverage            Active      Hits    Misses % Covered
+    ----------------            ------      ----    ------ ---------
+    Branches                        25        24         1      96.0
+    FEC Condition Terms              4         4         0     100.0
+    FSMs                                                        83.3
+        States                       4         4         0     100.0
+        Transitions                  6         4         2      66.6
+    Toggle Bins                     40        35         5      87.5
+
+=================================================================================
+=== File: ../src/div_clk.v
+=================================================================================
+    Enabled Coverage            Active      Hits    Misses % Covered
+    ----------------            ------      ----    ------ ---------
+    Branches                        18        17         1      94.4
+    FEC Condition Terms              4         3         1      75.0
+    FSMs                                                       100.0
+        States                       0         0         0     100.0
+        Transitions                  0         0         0     100.0
+    Toggle Bins                    108        75        33      69.4
+
+=================================================================================
+=== File: ../src/timer.v
+=================================================================================
+    Enabled Coverage            Active      Hits    Misses % Covered
+    ----------------            ------      ----    ------ ---------
+    Branches                        11        11         0     100.0
+    FEC Condition Terms              0         0         0     100.0
+    FSMs                                                       100.0
+        States                       0         0         0     100.0
+        Transitions                  0         0         0     100.0
+    Toggle Bins                     36        31         5      86.1
+
+=================================================================================
+=== File: ../src/traffic_light.v
+=================================================================================
+    Enabled Coverage            Active      Hits    Misses % Covered
+    ----------------            ------      ----    ------ ---------
+    Branches                         0         0         0     100.0
+    FEC Condition Terms              0         0         0     100.0
+    FSMs                                                       100.0
+        States                       0         0         0     100.0
+        Transitions                  0         0         0     100.0
+    Toggle Bins                     32        27         5      84.3
+
+
+Total Coverage By File (code coverage only, filtered view): 86.2%
+

@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/FPGA/Verilog_design/seq_check_1011001/src/seq_check.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module seq_check
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/FPGA/Verilog_design/seq_check_1011001/tb/tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module tb

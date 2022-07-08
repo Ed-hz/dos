@@ -1,0 +1,11 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/project_3/project_3.sim/sim_1/synth/timing/xsim/tb_time_synth.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module IBUF_UNIQ_BASE_
+INFO: [VRFC 10-311] analyzing module IBUF_HD1
+INFO: [VRFC 10-311] analyzing module IBUF_HD2
+INFO: [VRFC 10-311] analyzing module IBUF_HD3
+INFO: [VRFC 10-311] analyzing module IBUF_HD4
+INFO: [VRFC 10-311] analyzing module IBUF_HD5
+INFO: [VRFC 10-311] analyzing module lat
+INFO: [VRFC 10-311] analyzing module glbl
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/project_3/project_3.srcs/sim_1/new/tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module tb

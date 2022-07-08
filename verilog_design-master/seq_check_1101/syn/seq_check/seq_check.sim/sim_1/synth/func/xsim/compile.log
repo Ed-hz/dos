@@ -1,0 +1,5 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/FPGA/Verilog_design/seq_check_1101/syn/seq_check/seq_check.sim/sim_1/synth/func/xsim/tb_func_synth.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module seq_check
+INFO: [VRFC 10-311] analyzing module glbl
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/FPGA/Verilog_design/seq_check_1101/tb/tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module tb

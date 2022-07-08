@@ -1,0 +1,30 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dF:/FPGA/Verilog_design/disable_block
+vdisable_block
+VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+31
+!i10b 1
+!s100 @]5dEcAF3co8=O>Xf@SJZ3
+IARJWiFDNPKY@<9Oe=Tg2c0
+R0
+w1647523119
+8disable_block.v
+Fdisable_block.v
+L0 4
+OL;L;10.6c;65
+!s108 1647523160.000000
+!s107 disable_block.v|
+!s90 disable_block.v|
+!i113 0
+o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+tCvgOpt 0

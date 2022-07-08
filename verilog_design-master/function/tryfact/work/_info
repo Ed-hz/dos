@@ -1,0 +1,30 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dF:/FPGA/Verilog_design/function/tryfact
+vtryfact
+VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+31
+!i10b 1
+!s100 Ic85@^TIS6oL=GV`<eTe]0
+IU0lmz64nYeNTVD_L8VTlm2
+R0
+w1648367659
+8.\tryfact.v
+F.\tryfact.v
+L0 2
+OL;L;10.6c;65
+!s108 1648368439.000000
+!s107 .\tryfact.v|
+!s90 .\tryfact.v|
+!i113 0
+o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+tCvgOpt 0

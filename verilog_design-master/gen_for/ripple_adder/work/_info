@@ -1,0 +1,60 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dF:/FPGA/Verilog_design/gen_for/ripple_adder
+T_opt
+!s110 1647520613
+Vz0i_mU;>Y6SiXI4[AT@I21
+04 15 4 work ripple_adder_tb fast 0
+=1-d8f3bcd0aee9-62332b64-29-6ad8
+o-quiet -auto_acc_if_foreign -work work
+Z1 tCvgOpt 0
+n@_opt
+OL;O;10.6c;65
+R0
+vripple_adder
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+31
+!i10b 1
+!s100 J`DBED3:fcC4eAPB`DJOV0
+I;K1>fkNa502cL;2UBlR[L2
+R0
+w1647521903
+8ripple_adder.v
+Fripple_adder.v
+L0 1
+Z3 OL;L;10.6c;65
+Z4 !s108 1647521933.000000
+Z5 !s107 ripple_adder_tb.v|ripple_adder.v|
+Z6 !s90 ripple_adder.v|ripple_adder_tb.v|
+!i113 0
+Z7 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R1
+vripple_adder_tb
+R2
+r1
+!s85 0
+31
+!i10b 1
+!s100 B=eBOo>V<HO]T:A]Vh?803
+IYDCgki=Ub:;@>65`gVKCM0
+R0
+w1647520906
+8ripple_adder_tb.v
+Fripple_adder_tb.v
+L0 2
+R3
+R4
+R5
+R6
+!i113 0
+R7
+R1

@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/FPGA/Verilog_design/reset_synchronizer/src/reset_synchronizer.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module reset_synchronizer
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/FPGA/Verilog_design/reset_synchronizer/tb/tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module tb

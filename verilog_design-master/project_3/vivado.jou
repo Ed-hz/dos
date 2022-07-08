@@ -1,0 +1,74 @@
+#-----------------------------------------------------------
+# Vivado v2021.2 (64-bit)
+# SW Build 3367213 on Tue Oct 19 02:48:09 MDT 2021
+# IP Build 3369179 on Thu Oct 21 08:25:16 MDT 2021
+# Start of session at: Tue Apr 19 10:21:29 2022
+# Process ID: 14820
+# Current directory: F:/project_3
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent17328 F:\project_3\project_3.xpr
+# Log file: F:/project_3/vivado.log
+# Journal file: F:/project_3\vivado.jou
+# Running On: LAPTOP-Q8881UKI, OS: Windows, CPU Frequency: 3194 MHz, CPU Physical cores: 16, Host memory: 14894 MB
+#-----------------------------------------------------------
+start_gui
+open_project F:/project_3/project_3.xpr
+update_compile_order -fileset sources_1
+launch_simulation -mode post-synthesis -type functional
+source tb.tcl
+run 10000 ns
+close_sim
+launch_simulation -mode post-synthesis -type functional
+source tb.tcl
+run 10000 ns
+synth_design -rtl -rtl_skip_mlo -name rtl_1
+refresh_design
+launch_simulation
+source tb.tcl
+run 10000 ns
+current_sim simulation_2
+close_sim
+launch_simulation -mode post-synthesis -type functional
+refresh_design
+reset_run synth_1
+launch_runs synth_1 -jobs 8
+wait_on_run synth_1
+close_sim
+launch_simulation
+source tb.tcl
+run 10000 ns
+current_design synth_1
+close_design
+launch_simulation -mode post-synthesis -type functional
+source tb.tcl
+run 10000 ns
+close_sim
+launch_simulation -mode post-synthesis -type functional
+source tb.tcl
+run 10000 ns
+launch_simulation -mode post-synthesis -type timing
+source tb.tcl
+run 10000 ns
+close_sim
+launch_simulation -mode post-synthesis -type timing
+source tb.tcl
+run 10000 ns
+report_design_a
+report_design_analysis -max_paths 50 -setup
+close_sim
+current_sim simulation_6
+launch_simulation -mode post-synthesis -type timing
+source tb.tcl
+run 10000 ns
+current_sim simulation_6
+close_sim
+launch_simulation -mode post-synthesis -type functional
+launch_simulation -mode post-synthesis -type functional
+launch_simulation -mode post-synthesis -type functional
+reset_simulation -simset sim_1 -mode post-synthesis -type functional
+launch_simulation -mode post-synthesis -type functional
+save_wave_config {F:/project_3/tb_time_synth.wcfg}
+add_files -fileset sim_1 -norecurse F:/project_3/tb_time_synth.wcfg
+set_property xsim.view F:/project_3/tb_time_synth.wcfg [get_filesets sim_1]
+current_sim simulation_9
+close_sim
+close_sim

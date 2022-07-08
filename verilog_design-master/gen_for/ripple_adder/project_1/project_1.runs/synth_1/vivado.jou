@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2021.2 (64-bit)
+# SW Build 3367213 on Tue Oct 19 02:48:09 MDT 2021
+# IP Build 3369179 on Thu Oct 21 08:25:16 MDT 2021
+# Start of session at: Thu Mar 17 21:05:16 2022
+# Process ID: 17296
+# Current directory: F:/FPGA/Verilog_design/gen_for/ripple_adder/project_1/project_1.runs/synth_1
+# Command line: vivado.exe -log ripple_adder.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source ripple_adder.tcl
+# Log file: F:/FPGA/Verilog_design/gen_for/ripple_adder/project_1/project_1.runs/synth_1/ripple_adder.vds
+# Journal file: F:/FPGA/Verilog_design/gen_for/ripple_adder/project_1/project_1.runs/synth_1\vivado.jou
+# Running On: LAPTOP-Q8881UKI, OS: Windows, CPU Frequency: 3194 MHz, CPU Physical cores: 16, Host memory: 14894 MB
+#-----------------------------------------------------------
+source ripple_adder.tcl -notrace

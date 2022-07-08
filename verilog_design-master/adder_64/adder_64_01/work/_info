@@ -1,0 +1,70 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dF:/FPGA/Verilog_design/adder_64/adder_64_01
+vadder_16
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+31
+!i10b 1
+!s100 2KWdUO<AHY8Je9M04n5<[3
+I=``7l8bbogQD=`cO]D>5[3
+R0
+Z2 w1647010566
+Z3 8adder_64.v
+Z4 Fadder_64.v
+L0 147
+Z5 OL;L;10.6c;65
+Z6 !s108 1647010583.000000
+Z7 !s107 adder_64_tb.v|adder_64.v|
+Z8 !s90 adder_64.v|adder_64_tb.v|
+!i113 0
+Z9 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z10 tCvgOpt 0
+vadder_64
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 54Ab[@QAW3FR`QJDgd`Og1
+ImIFHRdK:R9l>bEn`eWWm>3
+R0
+R2
+R3
+R4
+L0 1
+R5
+R6
+R7
+R8
+!i113 0
+R9
+R10
+vadder_64_tb
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 dG9QFXJz8;FN@WCNO;S?A1
+IJZhnzD;^L69_Xm=KNZO9`1
+R0
+w1647009911
+8adder_64_tb.v
+Fadder_64_tb.v
+L0 2
+R5
+R6
+R7
+R8
+!i113 0
+R9
+R10
